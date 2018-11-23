@@ -1,0 +1,17 @@
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.Compra_form.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.Form_principall.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\bin\Debug\Principal.exe.config
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\bin\Debug\Principal.exe
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\bin\Debug\Principal.pdb
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.exe
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.pdb
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.Producto_form.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.Adicionar_form.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.Cliente_Form.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.Empleado_Form.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.provedor_Form.resources
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SuperMercado\Principal\obj\Debug\Principal.EliminarForm.resources
